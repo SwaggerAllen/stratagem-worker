@@ -1,0 +1,22 @@
+# Changes here will be overwritten by Copier
+_commit: 3090ee1
+_src_path: gh:browniebroke/pypackage-template
+add_me_as_contributor: true
+cli_name: sw
+copyright_year: '2024'
+documentation: true
+email: swagger.allen@pm.me
+full_name: Allen Strut
+github_username: SwaggerAllen
+has_cli: true
+initial_commit: true
+open_source_license: GNU General Public License v3
+package_name: stratagem_worker
+project_name: Stratagem Worker
+project_short_description: A set of prefect flows and tasks for describing, specifying
+    and implementing software using generative AI.
+project_slug: stratagem-worker
+run_poetry_install: true
+setup_github: true
+setup_pre_commit: true
+
